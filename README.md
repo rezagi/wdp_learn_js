@@ -1,4 +1,4 @@
-# WDP - Deep DIve Into JavaScript Task
+# WDP - Deep Dive Into JavaScript Task
 
 Repository ini berisikan tugas mengenai pembelajaran JavaScript di Course WDP
 
