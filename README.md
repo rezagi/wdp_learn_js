@@ -7,6 +7,7 @@ Created by : Reza Agi
 # Sneek Peek
 
 Ini adalah hasil dari pengerjaan tugas untuk pembuatan pattern segitiga.
+
 ![enter image description here](https://lh3.googleusercontent.com/pw/AM-JKLXZ_pePWzHjKd6LI4BUxOf29YQqtNIWlYpC9VjPmTjWr7HEvqI7sF4Wz5Lna7eniUmxTPTqtnZzqNvNewERWgcc3C-XWnddI0uuQceuLEIYtY9ZyRMDDUMCQBzb5bUNjiYyjuUlxBe5QQyJH2_3p8Bv=w415-h115-no?authuser=0)
 
 
